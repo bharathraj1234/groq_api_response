@@ -2,7 +2,7 @@ import os
 
 from groq import Groq
 
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = "api key here"
 
 prompt = input("enter ur question here  ")
 

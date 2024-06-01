@@ -1,1 +1,1 @@
-pip install groqgit 
+pip install groq
